@@ -1,6 +1,8 @@
 #  HFAN: Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation (ECCV 2022)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CODE4UVOS.HFAN)
 
+## Download HFAN weights from [BaiduDrive](https://pan.baidu.com/s/1FFdeziezAaBXbfoaQprZ6g?pwd=8we9); and MiT weights from [OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/xieenze_connect_hku_hk/EvOn3l1WyM5JpnMQFSEO5b8B7vrHw9kDaJGII-3N9KNhrg?e=cpydzZ).
+
 ## Introduction
 > This work has been accepted to ECCV 2022, and we will update the camera-ready version soon.<br>
 
